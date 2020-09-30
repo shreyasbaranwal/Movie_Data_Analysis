@@ -12,8 +12,8 @@ Summary of the business problem you are trying to solve, and the data questions 
 
 ***
 Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
+* What are the business pain points related to this project?
+* How did you pick the data analysis questions that you did?
 * Why are these questions important from a business perspective?
 ***
 
